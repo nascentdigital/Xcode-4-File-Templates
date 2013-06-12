@@ -133,19 +133,18 @@
 
 - (void)didReceiveMemoryWarning
 {
-	// vall base implementation
+	// call base implementation
 	[super didReceiveMemoryWarning];
 	
-	// gree up any memory that can be recreated easily
+	// free up any memory that can be recreated easily
 }
 
 
-#pragma mark -
-#pragma mark Private Methods
+#pragma mark -Private Methods
 
 - (void)_initialize___VARIABLE_controllerName:identifier___
 {
-	// Initialize instance variables.
+	// initialize instance variables
 }
 
 
